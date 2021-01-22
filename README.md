@@ -1,1 +1,1 @@
-http://verstka1.maxomato.surge.sh
+Landing link: http://verstka1.maxomato.surge.sh
